@@ -1,0 +1,6 @@
+{
+  "directory_name": "website",
+  "domain": "ermini.crusat.ru",
+  "email": "crusat@yandex.ru",
+  "_extensions": ["cookiecutter.extensions.RandomStringExtension"]
+}
